@@ -1,0 +1,10 @@
+.image-preview {
+    max-width: 300px;
+}
+
+.image-text {
+    width: 300px;
+    margin-top: 0.5em;
+    font-size: 0.875em;
+    color: #9ca3af; /* Tailwind's gray-400 */
+}
